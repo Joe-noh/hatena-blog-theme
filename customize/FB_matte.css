@@ -1,0 +1,32 @@
+#title {
+    font-size: 700%;
+}
+    
+a:hover {
+    color: #2980b9 !important;
+}
+        
+.entry-header-menu a:hover {
+    color: white;
+    background-color: #2980b9;
+}
+        
+.categories {
+    font-size: 80%;
+}
+.categories a {
+    border: solid 1px #cccccc;
+    border-radius: 3px;
+    text-decoration: none;
+    padding: 3px;
+}
+.categories a:hover {
+    border-color: #2980b9;
+}
+            
+.code {
+    font-size: 90%;
+    line-height: 1.2;
+    word-wrap: normal;
+    overflow: auto;
+}
